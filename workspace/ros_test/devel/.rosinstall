@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/dylan/autodrive/workspace/ros_test/devel/setup.sh
